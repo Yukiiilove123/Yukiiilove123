@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yukiiilove123
 - 👀 I’m interested in Ai, Machine learning and frontend development
 - 🌱 I’m currently learning python and frontend dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...[Replit](https://replit.com/@nithyaanvekar1)
 - 📫 How to reach me ... [Linkedin](https://www.linkedin.com/in/nithya-anvekar-b578a0283/) 
 
 <!---
